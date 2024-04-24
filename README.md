@@ -8,7 +8,7 @@ Git version 2.42.0.windows.2
 Editeur de code (Ex : VIsual Studio Code)
 
 ## Installation
-git clone https://ytrack.learn.ynov.com/git/hyanice/Groupie-tracker.git  
+git clone clone https://github.com/YaniceHourcade/Groupie-tracker.git  
 
 Ouvrez le dossier Groupie-tracker précédemment cloné dans Visual Studio Code  
 
